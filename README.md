@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Filipe-b7
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning C at 42.
+- 🌱 I’m currently learning C at 42 Porto.
