@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Filipe-b7
-- 👀 I’m interested in software development.
+- 👋 Hi, I’m Filipe
+- 👀 I’m a software developer.
 - 🌱 I’m currently studying at 42 Porto.
