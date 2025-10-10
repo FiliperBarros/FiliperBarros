@@ -1,6 +1,6 @@
-# Hi, I'm **Filipe Barros**:
+# Hi, I'm **Filipe Barros**
 
-a software developer with a background in QA teting, now focused on **back-end development** at [42 Porto](https://42porto.com/). I started with C. I enjoy solving problems and writing clean code.
+A software developer with a background in QA teting, now focused on **back-end development** at [42 Porto](https://42porto.com/). I started with C. I enjoy solving problems and writing clean code.
 
 Check out my projects to see what I’ve been working on!
 
