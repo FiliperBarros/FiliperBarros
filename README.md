@@ -8,7 +8,6 @@ Check out my projects to see what I’ve been working on!
 💻   Languages:  `C`  
 👨‍💻   Learning Back-end Development  
 🧠   Currently completing the `Common Core` at [42 Porto](https://42porto.com/)  
-📩   Reach me at [contact.filipebarros@gmail.com](mailto:contact.filipebarros@gmail.com) or [LinkedIn](https://linkedin.com/filiperbarros)
 
 ---
 
