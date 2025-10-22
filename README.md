@@ -39,5 +39,12 @@ Check out my projects to see what I’ve been working on!
 - [Push_Swap](https://github.com/FiliperBarros/push_swap) → Sorting data on a stack, with a limited set of instructions  
 - [Libft](https://github.com/FiliperBarros/libft) → A C library  
 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FiliperBarros/FiliperBarros/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FiliperBarros/FiliperBarros/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FiliperBarros/FiliperBarros/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 </details>
 
