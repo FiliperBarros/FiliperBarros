@@ -1,4 +1,5 @@
 ## whoami
+
 Hi, I'm **Filipe Barros**👋
 
 A software developer with a background in QA testing, now focused on **back-end development** at [42 Porto](https://42porto.com/). I started with C. I enjoy solving problems and writing clean code.
