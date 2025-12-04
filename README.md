@@ -44,7 +44,7 @@ Check out my projects to see what I’ve been working on!
 
 ### Individual Projects
 
-- [Minishell](#) → Recreate the bash terminal  
+- [Minishell](#) → (https://github.com/FiliperBarros/minishell) → Recreate the bash terminal
 - [Philosophers](https://github.com/FiliperBarros/philosophers) → The philosopher dining problem  
 - [So_long](https://github.com/FiliperBarros/so_long) → A 2D retro game  
 - [Push_Swap](https://github.com/FiliperBarros/push_swap) → Sorting data on a stack, with a limited set of instructions  
