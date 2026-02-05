@@ -2,12 +2,12 @@
 
 Hi, I'm **Filipe Barros**👋
 
-A software developer with a background in QA testing, now focused on **back-end development** at [42 Porto](https://42porto.com/). I started with C. I enjoy solving problems and writing clean code.
+A software developer with a background in QA testing, now focused on **back-end development** at [42 Porto](https://42porto.com/). I started with C and C++. I enjoy solving problems and writing clean code.
 
 Check out my projects to see what I’ve been working on!
 
 
-💻   Languages:  `C`  
+💻   Languages:  `C` `C++` `Python`  
 👨‍💻   Learning Back-end Development  
 🧠   Currently completing the `Common Core` at [42 Porto](https://42porto.com/)  
 
@@ -17,6 +17,8 @@ Check out my projects to see what I’ve been working on!
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
